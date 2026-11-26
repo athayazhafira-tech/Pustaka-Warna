@@ -1,0 +1,8 @@
+{
+  "name": "Pustaka Warna — Perpustakaan Digital Inklusif",
+  "description": "Perpustakaan digital modern dengan pencarian cerdas, filter kategori, tahun terbit, dan penulis, peminjaman buku, serta mode aksesibilitas pembaca layar dan kontras tinggi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
